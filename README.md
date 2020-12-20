@@ -1,0 +1,2 @@
+# MineAlert
+Discord Bot
